@@ -3,12 +3,12 @@ body {
 }
 
 span {
-    background-color:blue;
+    background-color:Blue;
     
 }
 
 button {
-    background-color: Yellow;
+    background-color: Green;
     color: Blue;
     padding: 16px;
     font-size: 16px;
@@ -19,8 +19,9 @@ button {
 button:hover {
     background-color:#3e8e41;
 }
+
 body{
-  background:blue;
+  background:Blue;
 }
 /* customizable snowflake styling */
 .snowflake {
